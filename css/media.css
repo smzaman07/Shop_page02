@@ -1,0 +1,33 @@
+@media(max-width: 1199px){
+
+}
+@media(max-width: 991px){
+	
+}
+@media(max-width: 767px){
+	.social-left {
+    text-align: center;
+    padding: 10px 0px;
+}
+.social-right{
+    padding: 10px 0px;
+}
+.fb-ic a, .tw-ic a, .ig-ic a {
+    padding-left: 30px;
+}
+.footer-top {
+    text-align: center;
+    border-bottom: 1px solid #1d1b1b47;
+}
+.footer-top-right {
+    text-align: center;
+}
+.latest h2 {
+    padding-top: 30px;
+}
+}
+@media(max-width: 575px){
+.latest h2 {
+    padding-top: 30px;
+    }
+}

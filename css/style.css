@@ -1,0 +1,155 @@
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  font-weight: 600;
+  padding: 5px 15px;
+}
+.navbar-light .navbar-nav .nav-link.btn{
+	color: #007bff;
+}
+.navbar-light .navbar-nav .nav-link.btn:hover{
+	background: transparent;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2) !important;
+}
+.breadcrumb .breadcrumb-item a{
+	    text-decoration: none;
+    color: #999;
+}
+.breadcrumb .breadcrumb-item strong{
+	color: #8c8282;
+}
+.product-section{}
+.product-tumbnaill{
+    overflow: hidden;
+}
+.product-tumbnaill img{
+    transition: all 0.2s ease;
+}
+.product-tumbnaill img:hover{
+    transform: scale(1.1);
+}
+.product-details{}
+.product-details h4{
+    font-size: 20px;
+    color: #796e6e;
+}
+.product-details span{
+    font-size: 14px;
+    color: #796e6e;
+}
+.product-details strong{
+    font-size: 17px;
+    padding: 10px 0px;
+    display: block;
+    color: #796e6e;
+}
+.product-details p{
+    font-size: 15px;
+    color: #796e6e;
+    padding: 7px 0px;
+}
+.ratting i{
+    color: #007fff;
+}
+.product-details table th{
+    color: #796e6e;
+}
+.latest-collection-section{}
+.latest h2{
+    padding-top: 60px;
+    color: #5a5555;
+}
+.latest-collection{
+	padding: 10px 0px;
+}
+.latest-collection h3{
+    font-size: 20px;
+    color: #796e6e;
+}
+.latest-collection strong{
+    font-size: 17px;
+    color: #796e6e;
+}
+.social-section{
+    background-color: #1266f1 !important;
+}
+.social-left{}
+.social-left h4{
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+}
+.fb-ic a, .tw-ic a, .ig-ic a{
+    padding-left: 15px;
+    color: #fff;
+}
+footer{
+	background-color: #2e2e2e;
+}
+.footer-top{}
+.footer-top h5{
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+}
+.footer-top span{
+    background-color: #1266f1;
+    width: 65px;
+    height: 1px;
+    display: inline-block;
+}
+.footer-top ul {
+    padding: 0;
+    padding-top: 20px;
+}
+.footer-top ul li{
+    list-style: none;
+}
+.footer-top ul li a {
+    color: #fff;
+    line-height: 1.7;
+    font-size: 15px;
+    text-decoration: none;
+}
+.footer-top-right{
+}
+.footer-top-right h5{
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+}
+.footer-top-right span{
+    background-color: #1266f1;
+    width: 65px;
+    height: 1px;
+    display: inline-block;
+}
+.footer-top-right ul {
+    padding: 0;
+    padding-top: 20px;
+}
+.footer-top-right ul li{
+    list-style: none;
+    color: #fff;
+    line-height: 1.7;
+    font-size: 14px;
+}
+.footer-top-right ul li i{
+}
+.footer-last{
+	background-color: #252323;
+}
+.footer-copy{
+	padding: 10px 0px;
+}
+.footer-copy p{
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-size: 14px;
+}
+.footer-copy p strong{
+    font-size: 14px;
+}
